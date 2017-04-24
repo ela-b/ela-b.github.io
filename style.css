@@ -1,0 +1,23 @@
+body {
+	background-color:#3399ff;
+}
+
+.title {
+	color:white;
+	font-family:verdana;
+	text-align:center;
+	margin-left:auto;
+	margin-top:15%;
+}
+a {
+	color:white;
+	text-decoration:none;
+}
+
+a:hover {
+	color:black;
+}
+
+h1 {
+	font-size:75px;
+}

@@ -3,8 +3,6 @@ body {
 }
 
 .title {
-	color:e9ce2c;
-	font-family:'Syncopate', sans-serif;
 	text-align:center;
 	margin-left:auto;
 	margin-top:15%;
@@ -20,5 +18,7 @@ a:hover {
 }
 
 h1 {
+	color:e9ce2c;
+	font-family:'Syncopate', sans-serif;
 	font-size:75px;
 }

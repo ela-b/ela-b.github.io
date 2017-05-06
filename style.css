@@ -1,24 +1,34 @@
 body {
 	background-color:#5d737e;
-}
-
-.title {
 	text-align:center;
+}
+.title {
 	margin-left:auto;
-	margin-top:15%;
+	margin-top:7%;
+	color:#e9ce2c;
+	font-family:'Syncopate', sans-serif;
+	font-size:75px;
+}
+.nav {
+	margin-top:5%;	
+}
+.logo {
+	margin-top:12%;
+	color:white;
 }
 a {
 	color:white;
-	font-family: 'Titillium Web', sans-serif;
 	text-decoration:none;
+	font-family:'Titillium Web', sans-serif;
+	font-size:30px;
 }
-
+i {
+	margin:5%;
+}
 a:hover {
 	color:black;
 }
 
-h1 {
-	color:e9ce2c;
-	font-family:'Syncopate', sans-serif;
-	font-size:75px;
+p {
+	margin-top:5%;
 }

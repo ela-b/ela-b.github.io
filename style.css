@@ -11,6 +11,9 @@ body {
 }
 .nav {
 	margin-top:7%;	
+	font-family:'Titillium Web', sans-serif;
+	font-size:30px;
+	color:white;
 }
 .logo {
 	margin-top:12%;
@@ -19,8 +22,7 @@ body {
 a {
 	color:white;
 	text-decoration:none;
-	font-family:'Titillium Web', sans-serif;
-	font-size:30px;
+
 }
 i {
 	margin:5%;

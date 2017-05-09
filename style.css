@@ -2,6 +2,7 @@ body {
 	background-color:#5d737e;
 	text-align:center;
 }
+/* Edit this field to make changes on the title of the site */
 .title {
 	margin-left:auto;
 	margin-top:7%;
@@ -9,28 +10,31 @@ body {
 	font-family:'Syncopate', sans-serif;
 	font-size:75px;
 }
+/* This field controls the ABOUT and BLOG links style */
 .nav {
 	margin-top:7%;	
 	font-family:'Titillium Web', sans-serif;
 	font-size:40px;
 	color:white;
 }
+p {
+	margin-top:5%;
+}
+/* Next two fields control logos´ style
+HINT: according to font awesome docs, you can change the logo size with the font-size property */
 .logo {
 	margin-top:7%;
 	color:white;
 }
+i {
+	margin:3%;
+}
+/* Here you can change the links style*/
 a {
 	color:white;
 	text-decoration:none;
 
 }
-i {
-	margin:3%;
-}
 a:hover {
 	color:#F9DC5C;
-}
-
-p {
-	margin-top:5%;
 }
